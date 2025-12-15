@@ -22,7 +22,8 @@ A simple and interactive **color picker** built using React. Users can select an
 
 ## 📸 Preview
 
-![Color Picker Preview](./Screenshot 2025-05-15 074758.png)
+![App Preview](./Screenshot%202025-05-15%20074758.png)
+
 
 ---
 
